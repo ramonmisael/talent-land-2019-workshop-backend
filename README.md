@@ -2,11 +2,12 @@
 
 ## Get Started
 
-Add your resume in files/resume.json following the format.
+Add your resume in files/resume.json following the current format.
 
 `npm install`
+
 `npm start`
 
 
-Note:  
+*Note:*  
 You can change the default port with a env variable PORT or changing in the index.js file
